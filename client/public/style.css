@@ -1,0 +1,18 @@
+.link{
+  color: dodgerBlue;
+}
+
+.card{
+  height: 300px;
+  width: auto;
+}
+
+p.category{
+  color: grey;
+  font-size: 11px;
+}
+
+.description{
+  font-size: 14px;
+  color: black;
+}
