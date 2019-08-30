@@ -1,13 +1,15 @@
 import React from 'react';
 import TopNav from './top-nav';
-import ItemsBody from './items-body';
+import ItemsBody from './ItemsBody';
+import PostForm from './PostForm';
 
 function App() {
   return (
-    <div>
+    <div className="wrapper">
       <TopNav />
       <div className="container">
           <ItemsBody />
+          <PostForm />
       </div>
       </div>
 
