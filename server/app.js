@@ -28,5 +28,5 @@ app.use('/contact', contact)
 
 
   server.listen(8000, () => {
-	console.log("We Gucci on port 3000!")
+	console.log("We Gucci on port 8000!")
 })
