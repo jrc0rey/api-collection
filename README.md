@@ -7,4 +7,4 @@ Node
 Express
 Knex
 PostgreSQL
-React
+React.js
